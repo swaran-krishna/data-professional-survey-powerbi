@@ -58,7 +58,6 @@ The dataset includes survey responses with the following attributes:
 
 - `survey_dashboard.pbix` – Power BI Dashboard  
 - `dataset.xlsx` – Cleaned dataset used for analysis  
-- Or [download via Google Drive](https://your-download-link.com) *(if file is over 25MB)*
 
 ---
 
